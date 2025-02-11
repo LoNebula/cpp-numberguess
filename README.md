@@ -1,3 +1,2 @@
-# cpp.numberguess.github.io
-
-Numberguess cpp
+C++ app
+number guess
